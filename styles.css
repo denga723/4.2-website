@@ -27,7 +27,7 @@ body {
   }
   
   .scroll-container {
-    height: 200px;
+    height: 100px;
     overflow: hidden;
     margin: 20px auto;
     width: 80%;
